@@ -25,7 +25,7 @@ repos:
         # Configuration is in pyproject.toml
 
   - repo: https://github.com/google/pyink
-    rev: 24.3.0
+    rev: 26.5.1
     hooks:
       - id: pyink
         name: pyink (Google's Black fork)
